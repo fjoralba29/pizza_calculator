@@ -1,0 +1,8 @@
+{
+    "name" : "pizza_calculator",
+    "main" : "pizza.js",
+   
+    "scripts" : {
+        "dev" : "node pizza.js"
+    }
+}
